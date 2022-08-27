@@ -1,1 +1,1 @@
-# tourism website
+# Tourism (Static) Website
